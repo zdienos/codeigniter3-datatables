@@ -5,6 +5,7 @@
 
 * Composer
 * Codeigniter 3
+* greenlion/php-sql-parser
 
 ### Installation
 
